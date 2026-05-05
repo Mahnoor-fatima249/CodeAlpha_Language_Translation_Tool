@@ -21,13 +21,13 @@ This is a real-time Language Translation Tool developed as part of the **CodeAlp
    git clone [https://github.com/YOUR_GITHUB_USERNAME/CodeAlpha_Language_Translation_Tool.git](https://github.com/YOUR_GITHUB_USERNAME/CodeAlpha_Language_Translation_Tool.git)
 
 2.Navigate to Folder:
-Bash
+```Bash
 cd CodeAlpha_Language_Translation_Tool
 
-Install Dependencies:
-Bash
+3.Install Dependencies:
+```Bash
 pip install -r requirements.txt
 
-Run the Application:
-Bash
+4.Run the Application:
+```Bash
 streamlit run app.py
